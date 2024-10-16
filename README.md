@@ -1,6 +1,5 @@
 # Auto-Repair-Shop-Customer-Retention-Analysis; Premier-Auto-Repair-Shop 
 # https://docs.google.com/presentation/d/1PY5_zocz4NNJI4J_hvunW-wokcvtDzX5/edit?usp=drive_link&ouid=112938532891179938863&rtpof=true&sd=true 
-Auto Repair Shop Customer Retention Analysis - Premier Auto Repair Shop
 
 This project focuses on a comprehensive analysis of customer retention patterns at Premier Auto Repair Shop, using data from over 150 customer interactions recorded over the past year. By examining these interactions, the report aims to identify key factors that drive customer satisfaction and loyalty, providing actionable insights to improve the shop's services and operational efficiency.
 
