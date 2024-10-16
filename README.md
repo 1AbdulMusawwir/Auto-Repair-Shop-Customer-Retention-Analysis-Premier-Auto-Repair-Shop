@@ -1,0 +1,2 @@
+# Auto-Repair-Shop-Customer-Retention-Analysis-Premier-Auto-Repair-Shop
+This report analyzes customer retention patterns at an Auto Repair Shop using data from the past year. We scan over 150 customer interactions to understand return patterns, identify factors influencing satisfaction, and assess service performance. This data-driven approach offers insights for optimizing operations and enhancing customer loyalty.
